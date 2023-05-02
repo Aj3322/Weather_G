@@ -215,5 +215,4 @@ WeatherRVModel model=new WeatherRVModel();
 
         requestQueue.add(jsonObjectRequest);
     }
-
 }
